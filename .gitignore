@@ -1,0 +1,13 @@
+raw_data/
+processed_data/
+chunk_output/
+.ipynb_checkpoints/
+.idea/
+weights/
+runs/
+__pycache__/
+*.pdf
+*.csv
+*.xlsx
+*.zip
+data_processing.ipynb
